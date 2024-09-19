@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories | Creator&#39;s Landing Page | Hugo Theme</title>
-    <link>https://example.com/categories/</link>
-      <atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <title>Categories | Collectivae</title>
+    <link>https://collectivae.github.io/categories/</link>
+      <atom:link href="https://collectivae.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://example.com/media/logo.svg</url>
+      <url>https://collectivae.github.io/media/logo.svg</url>
       <title>Categories</title>
-      <link>https://example.com/categories/</link>
+      <link>https://collectivae.github.io/categories/</link>
     </image>
     
   </channel>
