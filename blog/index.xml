@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog | Collectivae</title>
+    <title>Articles | Collectivae</title>
     <link>https://collectivae.github.io/blog/</link>
       <atom:link href="https://collectivae.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
-    <description>Blog</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <description>Articles</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 25 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://collectivae.github.io/media/logo_hu2f85d4f5269fb3e50279eeb712e4d6cf_87444_300x300_fit_lanczos_3.png</url>
-      <title>Blog</title>
+      <url>https://collectivae.github.io/media/logo_hu12170240993828090745.png</url>
+      <title>Articles</title>
       <link>https://collectivae.github.io/blog/</link>
     </image>
     
